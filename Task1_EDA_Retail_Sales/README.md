@@ -21,7 +21,13 @@ Files in this folder:
 - `EDA_Retail_Task1.ipynb`: Main notebook with code and visualizations
 
 Outcome:
-We found patterns such as:
-- Top 5 cities contributing to revenue
-- Bigger stores selling more
-- Some promotion types leading to higher revenue
+Daily Total Sales Over Time – shows overall sales activity and fluctuations on a daily basis.
+Monthly Total Sales Trend – visualizes how sales vary month by month.
+Total Sales by Year – compares yearly sales performance.
+Average Monthly Sales Across All Years – helps spot seasonal demand patterns.
+Top 10 Best-Selling Products – identifies products with the highest total units sold.
+Top 10 Revenue-Generating Products – highlights products that brought in the most revenue.
+Top 10 Cities by Revenue – shows which cities contribute most to overall revenue.
+Store Size vs Sales – explores the relationship between store size and sales volume.
+Average Revenue by Promotion Type 2 – shows which promotion type 2 drives better revenue.
+Average Revenue by Promotion Type 1 & 2 (Combined) – compares combined promotion strategies and their impact on revenue.
