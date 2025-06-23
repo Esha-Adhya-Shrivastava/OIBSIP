@@ -12,7 +12,7 @@ Steps Performed:
 - Data cleaning and preprocessing
 - Feature scaling using StandardScaler
 - Elbow method to determine optimal number of clusters (k)
-- K-Means clustering (k = 2)
+- K-Means clustering 
 - Cluster labeling and profiling
 - Visualizations: Pie chart, scatter plot
 - Final recommendations
