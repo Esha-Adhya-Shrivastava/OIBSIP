@@ -22,7 +22,7 @@ Steps Performed:
 
 Files Included:
 - `Fraud_Detection.ipynb` — Full notebook with code and insights
-- `creditcard.csv` — Original dataset
+- `creditcard.csv` — Original dataset not included due to size limits
 - `fraud_detection_model.pkl` — Trained classification model
 
 Key Insights:
