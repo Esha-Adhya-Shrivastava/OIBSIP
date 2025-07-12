@@ -3,6 +3,8 @@ Task 1: Exploratory Data Analysis on Retail Sales
 Overview:
 This task involves performing EDA (Exploratory Data Analysis) on a retail sales dataset provided by Oasis Infobyte. It includes sales, store, and product information.
 
+🔗 Dataset Source: [Kaggle - Retail Sales Data](https://www.kaggle.com/datasets/berkayalan/retail-sales-data/data)
+
 Steps Performed:
 - Handled missing values and cleaned data
 - Merged three datasets: `sales.csv`, `store_cities.csv`, and `product_hierarchy.csv`
