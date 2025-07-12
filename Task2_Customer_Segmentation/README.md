@@ -2,7 +2,7 @@ Oasis Infobyte Internship – Task 2
 
 Project: Customer Segmentation Analysis
  
-Dataset Source: ifood_df.csv from Kaggle
+Dataset Source Link: https://www.kaggle.com/code/analystoleksandra/marketing-analytics-customer-segmentation/input
 
 Objective:
 To segment e-commerce customers into meaningful groups using clustering techniques and generate actionable marketing insights.
